@@ -71,3 +71,10 @@ pnpm format
 pnpm check
 ```
 
+## Contributing
+
+Feel free to open issues or submit pull requests if you encounter any bugs or have suggestions for improvements. Your contributions are welcome!
+
+## License
+
+This plugin is released under the MIT License. See the [LICENSE](LICENSE) file for details.
