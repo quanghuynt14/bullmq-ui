@@ -1,5 +1,7 @@
 # bullmq-ui
 
+<img width="2584" height="489" alt="image" src="https://github.com/user-attachments/assets/d43147d6-498d-4c9a-9257-e3f625e11c0b" />
+
 A modern, real-time monitoring dashboard for BullMQ
 
 ## Features
